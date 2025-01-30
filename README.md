@@ -4,7 +4,7 @@
 
 ## what i'm working on 🚀
 - 🛠️ **building:** [pierochain](https://github.com/9iero/blockchain-java)
-- 🎧 **listening to:** [![spotify now playing](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default)](https://open.spotify.com/user/07nbfx6lnumpy6njc9l51jyev?si=b86d4b86574546b6)
+- 🎧 **listening to:** [![spotify now playing](https://open.spotify.com/user/07nbfx6lnumpy6njc9l51jyev?si=b86d4b86574546b6)
 - 🔍 **exploring:** game development, ai, and web apps
 
 ## tech stack
