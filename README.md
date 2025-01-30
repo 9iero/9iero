@@ -1,56 +1,21 @@
-# Welcome to My GitHub Profile!
+# welcome to my github profile!
 
-![Banner](https://ondemand.bannerbear.com/signedurl/D0nJ4XLedwbENRZa1x/image.jpg?modifications=W3sibmFtZSI6InJlcG8iLCJ0ZXh0IjoiOWllcm8gLyAqOWllcm8qIn0seyJuYW1lIjoiZGVzYyIsInRleHQiOiIgIn0seyJuYW1lIjoiYXZhdGFyNSIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjQiLCJoaWRlIjp0cnVlfSx7Im5hbWUiOiJhdmF0YXIzIiwiaGlkZSI6dHJ1ZX0seyJuYW1lIjoiYXZhdGFyMiIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjEiLCJpbWFnZV91cmwiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvODYwMjYzMzc_dj00In0seyJuYW1lIjoiY29udHJpYnV0b3JzIiwidGV4dCI6IjlpZXJvIn0seyJuYW1lIjoic3RhcnMiLCJ0ZXh0IjoiMCJ9XQ&s=1c6bbd23a10db0c3dde9539a4d61cb287d2557e0b24f69d62455b36a9698b0ba)
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+## what i'm working on 🚀
+- 🛠️ **building:** [your project name](https://github.com/your-username/project)
+- 🎧 **listening to:** [![spotify now playing](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default)](https://open.spotify.com/user/your-spotify-id)
+- 🔍 **exploring:** game development, ai, and web apps
 
-## What I'm Working On 🚀
-- 🛠️ **Building:** [Your Project Name](https://github.com/your-username/project)
-- 🎧 **Listening to:** [![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default)](https://open.spotify.com/user/your-spotify-id)
-- 🔍 **Exploring:** Game development, AI, and web apps
+## tech stack
+![python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![c++](https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![game dev](https://img.shields.io/badge/-game%20dev-ff6600?style=flat-square&logo=unity&logoColor=white)
 
-## Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Game Dev](https://img.shields.io/badge/-Game%20Dev-ff6600?style=flat-square&logo=unity&logoColor=white)
+## get in touch
+[![twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![portfolio](https://img.shields.io/badge/-portfolio-ff6600?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true)
-
-![Snake Game](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
-
-## Featured Projects
-- 🎮 [**Retro Platformer**](https://github.com/your-username/retro-platformer) - A pixel-art platformer built in Unity.
-- 🌍 [**Open World Engine**](https://github.com/your-username/open-world-engine) - A lightweight game engine for open-world exploration.
-- 🛠️ [**Dev Toolkit**](https://github.com/your-username/dev-toolkit) - Handy tools for developers.
-
-## Blog & Writing
-📝 Check out my latest posts:
-- [How I Built an 8-bit Game with Python](https://yourblog.com/post1)
-- [Best Open-Source Game Engines](https://yourblog.com/post2)
-- [Pixel Art Tips for Beginners](https://yourblog.com/post3)
-
-## Get in Touch
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff6600?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)
-
-Thanks for stopping by! 🚀
-
-
-<!--
-**9iero/9iero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+thanks for stopping by! 🚀
