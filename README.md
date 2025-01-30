@@ -4,7 +4,7 @@
 
 ## what i'm working on 🚀
 - 🛠️ **building:** [pierochain](https://github.com/9iero/blockchain-java)
-- 🎧 **listening to:** [spotify now playing](https://open.spotify.com/user/07nbfx6lnumpy6njc9l51jyev?si=b86d4b86574546b6)
+- 🎧 **listening to:** [[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=07nbfx6lnumpy6njc9l51jyev&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=07nbfx6lnumpy6njc9l51jyev&redirect=true)](https://open.spotify.com/user/07nbfx6lnumpy6njc9l51jyev?si=b86d4b86574546b6)
 - 🔍 **exploring:** game development, ai, and web apps
 
 ## tech stack
