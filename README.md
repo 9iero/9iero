@@ -8,8 +8,9 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=07nbfx6lnumpy6njc9l51jyev&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=07nbfx6lnumpy6njc9l51jyev&redirect=true)
 
 ## what i'm working on 😼
-- 🛠️ **building:** [pierochain](https://github.com/9iero/blockchain-java)
-- 🔍 **exploring:** game development, ai, and web apps
+- 🛠️ *building:* [pierochain](https://github.com/9iero/blockchain-java)
+
+- 🔍 *exploring:* game development, ai, and web apps
 
 ## tech stack
 ![html](https://img.shields.io/badge/-html-3776AB?style=flat-square&logo=html5&logoColor=white)
